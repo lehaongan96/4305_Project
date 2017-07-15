@@ -1,0 +1,99 @@
+Tài Li?u Dành Cho Ngu?i Phát Tri?n
+
+Chào các b?n, dây là tài li?u dành cho nh?ng ai mu?n phát tri?n phiên b?n d?u tiên v? Qu?n Lý Quán Cà Phê Tôm Tít này. Hi?n t?i, ? Phiên B?n d?u tiên, v?i 2 Contribute chính là Phúc và Ti?n. Chúng tôi dã th?c hi?n du?c các ch?c nang sau
+
+Ð?t Bàn
+Ch?n Bàn + Chuy?n bàn
+Thanh toán bill cho khách hàng
+Tính th?ng kê, báo cáo theo Tháng/Quí
+Phân quy?n qu?n tr? co s? d? li?u thêm s?a xóa cho quy?n Admin
+Cá nhân chúng tôi t? dánh giá nh?ng nhu?c di?m c?a phiên b?n ph?n m?m nhu sau:
+
+Ch? áp d?ng cho h? di?u hành Windows, chua có phiên b?n cho Ubuntu, Sentos, MacOSX..
+Ch? áp d?ng trên máy tính, chua có tính di d?ng cao nhu App trên Android, Iphone,..
+C?n thêm phiên b?n trên n?n Web, x? lý v?i th?i gian th?c.
+Và còn m?t s? nhu?c di?m mà tùy theo ngu?i s? d?ng, b?n có th? s? d?ng phiên b?n này d? tr?i nghi?m và t? phát tri?n ch?c nang theo riêng mình.
+Làm sao d? phát tri?n ph?n m?m này???
+
+Ð?u Tiên xin m?i xem Phân Tích Thi?t k? h? th?ng c?a nhóm Thi?t k? h? th?ng
+Ti?p Theo là Tài li?u cho ngu?i dùng cu?i
+Cu?i cùng các b?n c?n trang b? cho mình nh?ng ki?n th?c nhu sau:
+Phân tích thi?t k? h? th?ng
+
+Giáo Trình Thi?t K? H? Th?ng Thông Tin
+
+https://www.slideshare.net/votanphuc/gt-pttk-hethongthongtin
+Blog Thi?t K? H? Th?ng Thông Tin
+
+http://iviettech.vn/category/blog/phan-tich-thiet-ke-he-thong
+Qu?n tr? csdl SQLSever
+
+Hu?ng d?n cài d?t và c?u hình SQL Sever
+
+http://o7planning.org/vi/10299/huong-dan-cai-dat-va-cau-hinh-sql-server-express-2014
+Hu?ng d?n cài d?t và c?u hình SQL Sever
+
+http://o7planning.org/vi/10239/huong-dan-hoc-sql-cho-nguoi-moi-bat-dau-voi-sql-server
+L?p trình C#
+
+Hu?ng d?n cài d?t và c?u hình SQL Sever
+
+http://vietjack.com/csharp/hoc_c_sharp_co_ban_nang_cao.jsp
+H?c l?p trình C# co b?n - 01 Gi?i thi?u khóa h?c
+
+https://www.youtube.com/watch?v=W83cte8Soqw&list=PLY8l8iqQTXXhf98RYy6918tMpLiqcdCsj
+8 Sách L?p Trình C# Siêu Ch?t Cho .NET Developer
+
+http://blog.itviec.com/sach-lap-trinh-c/
+L?p trình theo 3 l?p 3Layer
+
+L?p trình C# - Winform - Hu?ng d?n mô hình 3 layer ADO.Net và Linq
+
+https://www.youtube.com/watch?v=_IiEd9xCLpo
+L?p trình mô hình 3 l?p trong C#
+
+http://lifeandline.com/lap-trinh-c-sharp-mo-hinh-3-lop-trong-c-sharp.html
+L?p trình mô hình 3 l?p trong C#
+
+http://www.imicrosoft.edu.vn/cong-nghe/27819/lap-trinh-c-mo-hinh-3-lop-trong-c-.html
+Ki nang s? d?ng Git
+
+Gi?i Thi?u Serie Git co b?n
+
+https://thachpham.com/tools/git-gioi-thieu-serie-git-co-ban.html
+Các l?nh GIT co b?n
+
+http://laptrinh.vn/d/4225-cac-lenh-git-co-ban.html
+Git A-Z co b?n
+
+https://backlogtool.com/git-guide/vn/
+Ki nang thi?t k? giao di?n Winform
+
+L?p trình Winform co b?n
+
+https://www.howkteam.com/Course/Lap-trinh-Winform-co-ban-27
+Làm Quen v?i WinForm
+
+https://www.slideshare.net/tuoitrecomvn/bi-1-lm-quen-vi-c-lp-trnh-winform
+Winform qua bài t?p
+
+http://www.trithucsangtao.vn/tu-hoc-lap-trinh-winform-c-qua-cac-vi-du-bai-3-231.html
+Quy t?c d?t tên, chu?n l?p trình.
+
+Quy t?c d?t tên và tiêu chu?n l?p trình trong C#
+
+http://ky-thuat-lap-trinh.blogspot.com/2013/11/quy-tac-at-ten-va-tieu-chuan-lap-trinh.html
+Quy t?c và phong cách vi?t code trong l?p trình
+
+http://stanford.com.vn/kien-thuc-lap-trinh/tin-chi-tiet/cagId/27/id/4300/quy-tac-va-phong-cach-viet-code-trong-lap-trinh
+Nh?ng nguyên t?c, d?nh lu?t c?a l?p trình mà chúng ta nên có s?n trong d?u
+
+https://kipalog.com/posts/Nhung-nguyen-tac--dinh-luat-cua-lap-trinh-ma-chung-ta-nen-co-san-trong-dau
+Open-Source Project
+
+How To Start An Open-Source Project
+
+https://www.smashingmagazine.com/2013/01/starting-an-open-source-project/
+4 steps to creating a thriving open source project
+
+https://opensource.com/life/15/5/4-steps-creating-thriving-open-source-project
