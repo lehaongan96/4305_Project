@@ -2,13 +2,6 @@ Tài Liệu Dành Cho Người Phát Triển
 
 Chào các bạn, đây là tài liệu dành cho những ai muốn phát triển phiên bản đầu tiên về Quản Lý Phong Kham này. Chúng tôi đã thực hiện được các chức năng sau:
 
-Đặt Bàn
-Chọn Bàn + Chuyển bàn
-Thanh toán bill cho khách hàng
-Tính thống kê, báo cáo theo Tháng/Quí
-Phân quyền quản trị cơ sở dữ liệu thêm sửa xóa cho quyền Admin
-Cá nhân chúng tôi tự đánh giá những nhược điểm của phiên bản phần mềm như sau:
-
 Chỉ áp dụng cho hệ điều hành Windows, chưa có phiên bản cho Ubuntu, Sentos, MacOSX..
 Chỉ áp dụng trên máy tính, chưa có tính di động cao như App trên Android, Iphone,..
 Cần thêm phiên bản trên nền Web, xử lý với thời gian thực.
